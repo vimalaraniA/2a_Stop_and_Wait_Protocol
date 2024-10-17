@@ -1,7 +1,7 @@
 # 2a_Stop_and_Wait_Protocol
 
-## Developed by: Preethi S
-## Register no: 212223230157
+## Developed by: Vimala Rani A
+## Register no: 212223040240
 
 ## AIM 
 To write a python program to perform stop and wait protocol
